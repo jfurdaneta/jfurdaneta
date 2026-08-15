@@ -6,7 +6,7 @@
 
 # Hi, I'm José Francisco Urdaneta
 
-Software Developer · Architect · Technology Operations Director
+Software Developer · Architect · Technology Operations Director and Delivery
 
 Writing software since 2006: .NET and Web Services, then native mobile banking on Play Store and App Store, and today digital lending platforms and AI systems with RAG and agents on Google Cloud. I design the architecture, write the code, build the team and take it to production.
 
