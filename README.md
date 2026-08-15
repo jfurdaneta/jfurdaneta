@@ -6,7 +6,7 @@
 
 # Hola, soy José Francisco Urdaneta
 
-Desarrollador · Arquitecto · Director de Operaciones Tecnológicas
+Desarrollador · Arquitecto · Director de Operaciones Tecnológicas y Delivery
 
 Escribo software desde 2006: empecé en .NET y Web Services, llevé banca móvil nativa a Play Store y App Store, y hoy construyo plataformas de crédito digital y sistemas de IA con RAG y agentes sobre Google Cloud. Diseño la arquitectura, escribo el código, armo el equipo y lo llevo a producción.
 
